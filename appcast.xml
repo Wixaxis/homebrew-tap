@@ -3,13 +3,18 @@
     <channel>
         <title>Lepik</title>
         <item>
-            <title>0.1.0</title>
-            <pubDate>Wed, 25 Nov 2026 01:53:42 +0100</pubDate>
-            <sparkle:version>0.1.0</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Wed, 25 Nov 2026 04:27:50 +0100</pubDate>
+            <sparkle:version>0.2.0</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Wixaxis/homebrew-tap/releases/download/v0.1.0/Lepik-0.1.0-arm64-direct.zip" length="25214720" type="application/octet-stream" sparkle:edSignature="hr5nrptP3yCC5zAzsMmk63qQiSLvoxydR5KDk+CuXGucV1yD7CZZ712AxVRRpmWcETT+35oRsVl6+5+OpHUmBA=="/>
+            <description><![CDATA[<ul>
+<li>Check for updates, follow download progress, and restart when you’re ready from the title bar. Homebrew and direct installs use the same updater.</li>
+<li>See the running version and read the changelog from the app header.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Wixaxis/homebrew-tap/releases/download/v0.2.0/Lepik-0.2.0-arm64.zip" length="25244178" type="application/octet-stream" sparkle:edSignature="ubuuQM5Nhd9PLXWQkpMopDziKwk2+5/qNQsNbP+/q3sM0UZjpcxS9xS7fWSSTEFUnNVHvs8cJc/5SmzZdxPbBw=="/>
         </item>
     </channel>
 </rss>
